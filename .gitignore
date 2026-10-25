@@ -1,0 +1,60 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+**/.venv/
+**/venv/
+
+# Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ML / model artifacts
+*.pkl
+backend/models/*.pkl
+house_price_production_rf.pkl
+
+# Frontend dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+frontend/.env
+backend/.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS and editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.sln
+*.sw?
+
+# Database / local runtime files
+*.sqlite3
+*.db

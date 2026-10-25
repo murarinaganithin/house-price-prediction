@@ -1,0 +1,167 @@
+[
+  {
+    "location": "bangalore",
+    "carpet_area": 1200,
+    "bathroom": 2,
+    "balcony": 2,
+    "floor": "5 out of 10",
+    "furnishing": "Semi-Furnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "East"
+  },
+  {
+    "location": "mumbai",
+    "carpet_area": 850,
+    "bathroom": 2,
+    "balcony": 1,
+    "floor": "12 out of 25",
+    "furnishing": "Furnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "West"
+  },
+  {
+    "location": "pune",
+    "carpet_area": 1500,
+    "bathroom": 3,
+    "balcony": 2,
+    "floor": "3 out of 7",
+    "furnishing": "Semi-Furnished",
+    "transaction": "Resale",
+    "ownership": "Leasehold",
+    "facing": "North"
+  },
+  {
+    "location": "hyderabad",
+    "carpet_area": 1800,
+    "bathroom": 3,
+    "balcony": 3,
+    "floor": "8 out of 15",
+    "furnishing": "Furnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "South - East"
+  },
+  {
+    "location": "chennai",
+    "carpet_area": 950,
+    "bathroom": 2,
+    "balcony": 1,
+    "floor": "2 out of 5",
+    "furnishing": "Unfurnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "North - East"
+  },
+  {
+    "location": "new-delhi",
+    "carpet_area": 2200,
+    "bathroom": 4,
+    "balcony": 2,
+    "floor": "Ground",
+    "furnishing": "Furnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "South"
+  },
+  {
+    "location": "gurgaon",
+    "carpet_area": 1650,
+    "bathroom": 3,
+    "balcony": 2,
+    "floor": "15 out of 30",
+    "furnishing": "Semi-Furnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "East"
+  },
+  {
+    "location": "kolkata",
+    "carpet_area": 1100,
+    "bathroom": 2,
+    "balcony": 1,
+    "floor": "4 out of 8",
+    "furnishing": "Unfurnished",
+    "transaction": "Resale",
+    "ownership": "Co-operative Society",
+    "facing": "North - West"
+  },
+  {
+    "location": "noida",
+    "carpet_area": 1350,
+    "bathroom": 3,
+    "balcony": 2,
+    "floor": "10 out of 20",
+    "furnishing": "Semi-Furnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "West"
+  },
+  {
+    "location": "jaipur",
+    "carpet_area": 1750,
+    "bathroom": 3,
+    "balcony": 2,
+    "floor": "1 out of 3",
+    "furnishing": "Furnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "East"
+  },
+  {
+    "location": "ahmedabad",
+    "carpet_area": 980,
+    "bathroom": 2,
+    "balcony": 1,
+    "floor": "6 out of 12",
+    "furnishing": "Semi-Furnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "North"
+  },
+  {
+    "location": "lucknow",
+    "carpet_area": 1400,
+    "bathroom": 2,
+    "balcony": 2,
+    "floor": "3 out of 6",
+    "furnishing": "Unfurnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "South -West"
+  },
+  {
+    "location": "thane",
+    "carpet_area": 750,
+    "bathroom": 1,
+    "balcony": 1,
+    "floor": "7 out of 14",
+    "furnishing": "Semi-Furnished",
+    "transaction": "Resale",
+    "ownership": "Leasehold",
+    "facing": "East"
+  },
+  {
+    "location": "kochi",
+    "carpet_area": 1600,
+    "bathroom": 3,
+    "balcony": 2,
+    "floor": "2 out of 4",
+    "furnishing": "Furnished",
+    "transaction": "Resale",
+    "ownership": "Freehold",
+    "facing": "West"
+  },
+  {
+    "location": "goa",
+    "carpet_area": 2500,
+    "bathroom": 4,
+    "balcony": 3,
+    "floor": "Ground",
+    "furnishing": "Furnished",
+    "transaction": "New Property",
+    "ownership": "Freehold",
+    "facing": "South"
+  }
+]

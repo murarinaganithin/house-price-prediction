@@ -1,0 +1,73 @@
+{
+  "locations": [
+    "ahmedabad",
+    "bangalore",
+    "bhiwadi",
+    "chandigarh",
+    "chennai",
+    "coimbatore",
+    "dehradun",
+    "faridabad",
+    "ghaziabad",
+    "goa",
+    "greater-noida",
+    "gurgaon",
+    "guwahati",
+    "hyderabad",
+    "jaipur",
+    "jamshedpur",
+    "kalyan",
+    "kanpur",
+    "kochi",
+    "kolkata",
+    "lucknow",
+    "mohali",
+    "mumbai",
+    "nagpur",
+    "navi-mumbai",
+    "new-delhi",
+    "noida",
+    "other",
+    "palghar",
+    "patna",
+    "pune",
+    "raipur",
+    "ranchi",
+    "sonipat",
+    "surat",
+    "thane",
+    "vadodara",
+    "vijayawada",
+    "visakhapatnam",
+    "zirakpur"
+  ],
+  "furnishing": [
+    "Furnished",
+    "Semi-Furnished",
+    "Unfurnished"
+  ],
+  "transaction": [
+    "New Property",
+    "Other",
+    "Rent/Lease",
+    "Resale"
+  ],
+  "ownership": [
+    "Co-operative Society",
+    "Freehold",
+    "Leasehold",
+    "Power Of Attorney",
+    "Unknown"
+  ],
+  "facing": [
+    "East",
+    "North",
+    "North - East",
+    "North - West",
+    "South",
+    "South - East",
+    "South -West",
+    "Unknown",
+    "West"
+  ]
+}
